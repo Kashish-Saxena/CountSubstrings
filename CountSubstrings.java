@@ -95,7 +95,7 @@ public class CountSubstrings
     }
     
     /**
-     *  convertStringToArraylist converts a string into an ArrayList.
+     *  convertStringToArraylist converts a string into an ArrayList of characters.
      *  
      *  @param str String input to the method 
      *  
@@ -110,7 +110,7 @@ public class CountSubstrings
     }
 
     /**
-     *  convertStringToLinkedlist converts a string into a LinkedList.
+     *  convertStringToLinkedlist converts a string into a LinkedList of characters.
      *  
      *  @param str String input to the method 
      *  
