@@ -3,7 +3,7 @@ import java.io.*;
 import java.lang.*;
 
 /**
- * CountSubstrings class tests the difference between the execution time between 
+ * CountSubstrings class tests the difference between the execution time of 
  * an ArrayList and a LinkedList.
  * 
  * @author Kashish Saxena
